@@ -18,7 +18,7 @@ Welcome to my GitHub profile! 🚀
 - 🧠 Brok — My AI assistant project.
 - 💻 NX — My operating system project.
 - 🏗️ Buildbix — My AI-powered building project.
-- 🛡️ DefendKing — My Python package.
+- 🛡️ DefendKing_SH — My Python package.
 - 🧩 NX Studio Code — My development tools project.
 - ➗ MathX — My mathematics project.
 - 🛒 DigiShop — My Django-based online shopping project.
